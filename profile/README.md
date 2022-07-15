@@ -6,6 +6,10 @@
     <em>Ready-to-use and customizable users management for FastAPI </em>
 </p>
 
+<p align="center">
+<a href="https://www.buymeacoffee.com/frankie567"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=frankie567&button_colour=FF5F5F&font_colour=ffffff&font_family=Arial&outline_colour=000000&coffee_colour=FFDD00"></a>
+</p>
+
 ---
 
 **Documentation**: <a href="https://fastapi-users.github.io/fastapi-users/" target="_blank">https://fastapi-users.github.io/fastapi-users/</a>
@@ -24,14 +28,11 @@ Add quickly a registration and authentication system to your [FastAPI](https://f
 * [X] Dependency callables to inject current user in route
 * [X] Pluggable password validation
 * [X] Customizable database backend
-    * [X] SQLAlchemy async backend included thanks to [encode/databases](https://www.encode.io/databases/)
-    * [X] MongoDB async backend included thanks to [mongodb/motor](https://github.com/mongodb/motor)
-    * [X] [Tortoise ORM](https://tortoise-orm.readthedocs.io/en/latest/) backend included
-    * [X] [ormar](https://collerek.github.io/ormar/) backend included
-
+    * [X] [SQLAlchemy ORM async](https://docs.sqlalchemy.org/en/14/orm/extensions/asyncio.html) included
+    * [X] [MongoDB with Beanie ODM](https://github.com/roman-right/beanie/) included
 * [X] Multiple customizable authentication backends
-    * [X] JWT authentication backend included
-    * [X] Cookie authentication backend included
+    * [X] Transports: Authorization header, Cookie
+    * [X] Strategies: JWT, Database, Redis
 * [X] Full OpenAPI schema support, even with several authentication backends
 
 ## In a hurry? Discover Fief, the open-source authentication platform
