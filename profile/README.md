@@ -50,7 +50,6 @@ Add quickly a registration and authentication system to your [FastAPI](https://f
 
 **Implementing registration, login, social auth is hard and painful. We know it. With our highly secure and open-source users management platform, you can focus on your app while staying in control of your users data.**
 
-* Based on **FastAPI Users**!
 * **Open-source**: self-host it for free
 * **Pre-built login and registration pages**: clean and fast authentication so you don't have to do it yourself
 * **Official Python client** with built-in **FastAPI integration**
@@ -58,6 +57,6 @@ Add quickly a registration and authentication system to your [FastAPI](https://f
 <br clear="right"/>
 
 <p align="center">
-    <a href="https://www.fief.dev"><img src="https://md-buttons.francoisvoron.com/button.svg?text=Join%20the%20beta&bg=f43f5e&w=150&px=30" /></a>
+    <a href="https://www.fief.dev"><img src="https://md-buttons.francoisvoron.com/button.svg?text=Get%20started&bg=f43f5e&w=150&px=30" /></a>
 </p>
-<p align="center">It's free!</p>
+<p align="center">It's free and open-source</p>
